@@ -8,7 +8,7 @@
 
 - 🌱 I'm Currently **Mastering MERN and Learning DSA in C++**
 
-- 💬 Ask me about **Javascript, React or MERN concepts**
+- 💬 Ask me about **Javascript,WEB3,React or MERN concepts**
 
 - 📫 How to reach me **gauravmahale18281@gmail.com**
 
