@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **gauravmahale18281@gmail.com**
 
-- ⚡ Fun fact : **If GitHub Stalking Were a Sport, You'd be a World Champion By Now!! Impressive Dedication.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
